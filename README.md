@@ -52,4 +52,4 @@ With companies handling vast volumes of data, the significance of maintaining se
 
 ## 🤝 **Contributing**
 
-Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are always welcome!
