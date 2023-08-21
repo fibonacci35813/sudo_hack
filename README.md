@@ -2,7 +2,6 @@
 
 Ensuring compliance with security standards and policies becomes an intricate task with the increasing volumes of data and system complexities. This project harnesses the power of Large Language Models (LLMs) to provide insightful monitoring and robust enforcement through meticulous log analysis.
 
-![Application Screenshot](YOUR_APP_SCREENSHOT_LINK_HERE)
 
 ## 📜 **Problem Overview**
 
