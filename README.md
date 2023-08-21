@@ -42,7 +42,7 @@ With companies handling vast volumes of data, the significance of maintaining se
 
 2. **Install Dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 3. **Run the Application**:
